@@ -1,0 +1,11 @@
+======
+README
+======
+
+Notes:
+- Eagle files.
+- Check the DRC check rules and polygon properties depending on the implementation method.
+
+
+TODO:
+- Don´t use external power for the activation of the gates of the MOSFET.
